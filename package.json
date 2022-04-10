@@ -1,0 +1,24 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {"node":"14.x"},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samia1234/vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samia1234/vercel/issues"
+  },
+  "homepage": "https://github.com/Samia1234/vercel#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
