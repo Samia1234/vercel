@@ -5,7 +5,7 @@ router.get('/',async(req,res)=>{
     try{
         res.json(
             {status:200,
-            message:"successufull"}
+            message:"successufull app deployed"}
         )
     }catch(error){
     console.error(error);
